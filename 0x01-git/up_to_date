@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git pull https://github.com/Code3six/alx-pre_course
 git add .
 git commit -m "How to be up to date in git"
 git push -u origin master
