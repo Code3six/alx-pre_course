@@ -1,2 +1,0 @@
-My first name
-Yimage
